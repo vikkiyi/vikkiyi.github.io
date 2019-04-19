@@ -496,6 +496,10 @@ h6,
 #pricing-table2-d .mbr-price-term {
   font-size: 24px;
 }
+#pricing-table2-d P {
+  text-align: center;
+  color: #000000;
+}
 #menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -567,6 +571,6 @@ h6,
 #form1-f .mbr-section-title {
   font-size: 36px;
 }
-#contacts3-h H4 {
+#contacts3-p P {
   color: #f7da64;
 }

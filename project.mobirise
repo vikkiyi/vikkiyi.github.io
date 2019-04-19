@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.5",
     "siteFonts": [],
-    "uniqCompNum": 20,
+    "uniqCompNum": 26,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
@@ -74,7 +74,7 @@
             "overlayOpacity": "0"
           },
           "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ВАС ПРИВЕТСТВУЕТ MIDENTAM",
-          "text": "С 2006 года мы трудимся на благо наших пациентов меняя их качество жизни путём изменения их улыбок. Наш основатель - Мирослава Ивановна Шимко, доктор-терапевт-ортопед, с 20-ти летним опытом трудится непокладая рук. Вкладымая своё профессиональное умение и душу в кажое творение, ведь каждая улыбка - уникальна и неповторима. &nbsp;А наше качество подтверждено 20-ти летним отдаленным результатом.",
+          "text": "&nbsp;Наша авторская клиника работает &nbsp;с &nbsp;2006 года. В своих работах мы успешно сочетаем высокую эстетику, надежное функционирование и длительный устойчивый эффект, что подтверждено признательностью и &nbsp;многолетней преданностью наших пациентов.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
           "_tags": [
             "Тема"
@@ -93,7 +93,7 @@
             "iconsBgColor": "@primaryColor",
             "paddingTop": "2",
             "paddingBottom": 2,
-            "columns": "6",
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -123,7 +123,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "update",
+              "name": "protect",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -135,7 +135,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "clock",
+              "name": "link",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -147,7 +147,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "like",
+              "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -159,7 +159,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "cash",
+              "name": "sale",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -193,19 +193,19 @@
           },
           "title1": "Мы - команда проффесионалов",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Наши доктора имеют большой опыт, каждый в своем направлении, Руководит и координирует работу главный врач с 20-ти летним опытом.",
-          "title2": "&nbsp;У нас полный замкнутый спектр услуг",
+          "caption1": "Наши доктора в своей практике руководствуются индивидуальным подходом к каждому пациенту. Окончательный план лечения утвержаеться коллегиально и согласовано в команде профессионалов.",
+          "title2": "&nbsp;Ежедневно виполняем и  соблюдаем протокол стерилизации&nbsp;",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Независимо от ваших потребностей мы рады предоставить вам профессиональное лечение на высшем уровне, по любым вопросам будь-то терапия, хирургия или ортодонтия.",
-          "title3": "&nbsp;Имеем оттаденные результаты",
+          "caption2": "Мы внимательны к вам и к себе, нас волнуют вопросы стерилизации и дезинфекции. Именно поэтому мы очень тщательно обрабатыеваем инструменты и рабочее место после каждого пациента. Максимально используем одноразовый инструментарий, а многоразовый автоклавируем в крафт-пакетах.",
+          "title3": "&nbsp;<br>&nbsp;Несем ответственность за нашу работу",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Наши доктора имеют 20-ти летний опыт, и качество наших работ проверено временем.",
-          "title4": "&nbsp;Ежедневно виполняем и &nbsp;соблюдаем протокол по стерилизации&nbsp;",
+          "caption3": "Мы не отказываемся от \"сложных\" пациентов. &nbsp;\"Ведем\" их на протяжении лечения, пока не будет достигнут &nbsp;максимально положительй результат, &nbsp;а также сопровождаем их в дальнейшем.&nbsp;<br>",
+          "title4": "Имеем отталёденные результаты",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Мы внимательны к вам и к себе, поэтому нас волнует вопрос стерилизации. Именно по этому мы очень тщательно обрабатыеваем инструменты и рабочее место после каждого пациента, после стерилиизации мы запаковываем инструменты в крафт-пакеты для сохранения 100% стерильности.",
+          "caption4": "Качество наших работ проверено временем. &nbsp;Гарантировано длительное полноценное функционирование и устойчивый эстетический эффект.",
           "title5": "&nbsp;Внедрили программу лояльности&nbsp;",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Так как, обычно у нас лечяться семьями, мы придумали програму лояльности для&nbsp;для большего поощрения наших клиентов.",
+          "caption5": "Так как, обычно у нас лечатся семьями, мы внедрили &nbsp;програму лояльности &nbsp;для &nbsp;поощрения наших пациентов и привлечения новых.",
           "title6": "&nbsp;Несем ответственность за нашу работу",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Мы не отказываемся от сложных пациентов и ведем их на протяжении лечения, пока не будет достигнут положительй результат.",
@@ -279,20 +279,20 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "description1": "Трехэтапная процедура, которую рекомендовано делать раз в &nbsp;пол года для поддержания здоровья ваших зубов",
-          "description2": "В зависимости от степени разрушения зуб может быть от &nbsp;1 до 4 единиц.",
-          "description3": "В зубе может быть от одного до 5 корневых каналов. Как правио во фронтальной части зубов от 1-до 3, а в молярнях - 2-5.",
+          "description1": "Трехэтапная процедура, которую рекомендовано делать раз в &nbsp;пол года для поддержания здоровья ваших зубов и десен и всей зубо-челюстной системы",
+          "description2": "В зависимости от степени разрушения, зуб может включать от &nbsp;1 до 4 единиц.",
+          "description3": "Зависит от колличества каналов в зубе.",
           "description4": "Стоимость удаления зависит от сложности удаляемого зуба",
           "button1": "<a data-app-btn=\"true\" href=\"tel:+380939360123\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Записаться</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Запписаться на&nbsp;<br>консультацию<br></a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Записаться на<br>консультацию<br></a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Записаться на <br>консультацию</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"tel:+38(067)502-87-27\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Запписаться&nbsp;<br></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"tel:+38(067)502-87-27\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Записаться&nbsp;<br></a>",
+          "button2": "<a data-app-btn=\"true\" href=\"tel:+38(067)502-87-27\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Записаться&nbsp;</a>",
           "_tags": [
             "Тема"
           ],
           "title": "Цены",
-          "subtitle": "Перечень услуг не полон и представлен для информирования пациента об уровне цен на стоматологические услуги.<br><b>Консультация</b> - 250&nbsp;₴, при дальнейшем лечении вычетается из стоимости.<br>",
-          "title1": "Гигиена",
+          "subtitle": "Перечень услуг не полный и представлен для информирования пациента об уровне цен на стоматологические услуги.<br><b>Консультация</b> - 250&nbsp;₴, при дальнейшем лечении вычетается из стоимости.<br>",
+          "title1": "Профилактика",
           "title2": "Терапия",
           "title3": "Эндодонтия",
           "title4": "Хирургия",
@@ -318,8 +318,8 @@
           "period4": "",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
-          "list3": "<p>Лечение двухканального зуба -      ₴  1700</p><p>Лечение трехканального зуба и более -  ₴ 1900</p>",
-          "list4": "<p>Удаление зуба 2 степени сложности - ₴ 1000 </p><p>Удаление зуба 3 степени сложности (атипичное) - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;₴ 2000</p><p></p>",
+          "list3": "",
+          "list4": "<p></p><p></p>",
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-b"
         },
@@ -350,6 +350,10 @@
             },
             ".mbr-price-term": {
               "font-size": "24px"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#000000"
             }
           },
           "_params": {
@@ -375,14 +379,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "description1": "В стоимость включены все дополнительные манипуляции \n<br>( препарирование, оттиски...)<br>",
-          "description2": "В стоимость включены все дополнительные манипуляции \n<br>( препарирование, оттиски...)",
-          "description3": "После хирургического этапа следует ортопедический. Стоимость зависит от нескольких факторов таких как, тип абатмента и вида конструкции( металло-керамика или оксид циркония)",
-          "description4": "Посе отбеливания рекомендовано пройти курс реминерализируещей терапии для закрепления эффекта.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Записаться на <br>консультацию</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Записаться на\n<br>консультацию</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Записаться на<br>консультацию<br></a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Записаться на <br>консультацию</a>",
+          "description1": "В стоимость включены все дополнительные манипуляции \n<br>( препарирование, оттиски, примерки, фиксация и тд.)<br>",
+          "description2": "В стоимость включены все дополнительные манипуляции \n<br>( препарирование, оттиски, примерки, фиксация и тд.)",
+          "description3": "После хирургического этапа следует ортопедический.&nbsp;",
+          "description4": "После отбеливания обязателен курс реминерализируещей терапии.",
+          "button1": "<a data-app-btn=\"true\" href=\"tel:+38(067)502-87-27\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Записаться&nbsp;</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"tel:+38(067)502-87-27\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Записаться&nbsp;</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"tel:+38(067)502-87-27\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Записаться&nbsp;<br></a>",
+          "button2": "<a data-app-btn=\"true\" href=\"tel:+38(067)502-87-27\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Записаться&nbsp;</a>",
           "_tags": [
             "Тема"
           ],
@@ -394,7 +398,7 @@
           "title4": "Эстетические услуги",
           "subtitle1": "<b>Металлокерамическая коронка</b>",
           "subtitle2": "<b>Керамическая коронка на оксиде циркония</b>",
-          "subtitle3": "<b>Установка имплантата U-Impl (Швейцария)</b>",
+          "subtitle3": "<b>Установка имплантата&nbsp;</b>",
           "subtitle4": "<b>Отбеливание зубов</b>",
           "label1": "HOT!",
           "label2": "HOT!",
@@ -414,40 +418,10 @@
           "period4": "/ <br>1 челюсть",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
-          "list3": "ортопедический этап имплантации - от ₴ 14 000&nbsp;<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
+          "list3": "<p><b>Ортопедический этап имплантации - &nbsp;от ₴ 14000</b></p><p>&nbsp;В зависимости от конструктивных особенностей протезной работы<i>.</i></p><p></p>",
           "list4": "Реминерализирующая терапия, 1 челюсть - ₴ 500<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-d"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Прайс-лист",
-          "text": "Полный перечень услуг вы можете скачать перейдя по ссылке.<br>Стоимость услуг может быть изменена в зависимости от сложности \r<div>клинического случая, а также индивидуальных особенностей пациента.</div>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Прайс-лист 2019</a>",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-j"
         },
         {
           "_styles": {
@@ -520,7 +494,7 @@
             "fontColor": "#8c8c8c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-a\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span>Юрковская 2-6/32 &nbsp; &nbsp; &nbsp; &nbsp;офис 2</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><p><span class=\"mobi-mbri mobi-mbri-calendar mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(192, 163, 117);\"></span>ПН-ПТ с 10:00-16:00 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;СБ, ВС - по записи</p></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"tel:+38(067)-502-87-27\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(192, 163, 117);\"></span>+38(067)502-87-27</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"tel:+38(093)936-01-23\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(192, 163, 117);\"></span>+38(093)936-01-23</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-a\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span>Юрковская 2-6/32 &nbsp; &nbsp; &nbsp; &nbsp;офис 2</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><p><span class=\"mobi-mbri mobi-mbri-calendar mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(192, 163, 117);\"></span>ПН-ПТ с 10:00-16:00 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;СБ, ВС - по записи</p></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"tel:+38(067)-502-87-27\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(192, 163, 117);\"></span>+38(067)502-87-27</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"tel:+38(093)936-01-23\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(192, 163, 117);\"></span>+38(063)036-59-33</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -619,8 +593,8 @@
         },
         {
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "4",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -632,7 +606,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/5000-1-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/5000-2-265x265.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -673,14 +647,14 @@
               "family": "et-line"
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить сообщение</a>",
-          "title1": "Все виды стоматологических услуг",
-          "text1": "Повышаем качество жизни делая улыбку безупречной!",
-          "text2": "+3 8067 502 87 27&nbsp;<br>+3893 936 01 23",
-          "text3": "г. Киев, ул. Юрковская 2-6/ 32&nbsp;<br>офис 2 (ст.м. Тараса Шевченка)",
-          "text4": "midentam<a href=\"mailto:support@mobirise.com\">@gmail.com</a>",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Т</a>ерапия</li><li><a class=\"text-white\" href=\"#\">О</a>ртопедия</li><li><a class=\"text-white\" href=\"#\">Х</a>ирургия</li><li><a class=\"text-white\" href=\"#\">О</a>ртодонтия</li><li><a class=\"text-white\" href=\"#\">Г</a>игиена</li>",
-          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Режим работы&nbsp;</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>\"По записи\"<br></b></span></font>ПН-ПТ с 09:00-20:00 <br>&nbsp;СБ, ВС - 10:00-18:00<br><br><br><br><strong>Address</strong><br>Yurkivska Street, 2-6/32,<br>oficce 2 (Tarasa Shevchenko metro station)<br>Kyiv. 04080",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "title1": "Categories",
+          "text1": "<br>Повышаем качество жизни делая улыбку безупречной!&nbsp;",
+          "text2": "+3 8067 502 87 27&nbsp;<br>+38(063)036-59-33<br>",
+          "text3": "г. Киев, ул. Юрковская 2-6/ 32 \n<br>офис 2 (ст.м. Тараса Шевченка)&nbsp;",
+          "text4": "<a href=\"mailto:support@mobirise.com\">midentam@gmail.com</a>",
+          "text5": "<li>Профилактика</li><li>Терапия</li><li>Ортопедия</li><li>Хирургия</li><li>Детская стоматология</li>",
+          "text6": "<br><br>We also speak in English.<br> If you something need &nbsp;call to us!<br>\n<br>Address\n<br>Yurkivska Street, 2-6/32,\n<br>oficce 2 (Tarasa Shevchenko metro station)\n<br>Kyiv. 04080\n<br><br>",
           "form": {
             "title": "MESSAGE",
             "action": "viksmaxloves@gmail.com",
@@ -713,32 +687,12 @@
             "Тема"
           ],
           "_name": "contacts3",
+          "_anchor": "contacts3-p",
           "_styles": {
-            "H4": {
+            "P": {
               "color": "#f7da64"
             }
-          },
-          "_anchor": "contacts3-h"
-        },
-        {
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2016 Mobirise.",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-i"
+          }
         }
       ]
     }
