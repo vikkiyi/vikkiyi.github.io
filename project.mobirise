@@ -441,31 +441,31 @@
           },
           "title": "Не соромтесь звертатися до нас",
           "subtitle": "<br>Записатися на прийом, зв'язатися з нами для пропозицій і співпраці.\n<br>Ми раді будь-якому зворотньому зв'язку.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Відправити повідомлення</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Відправити повідомлення</a>",
           "form": {
             "action": "midentam@gmail.com",
             "alerts": {
-              "success": "Спасибо за отклик! Мы свяжемся с вами в скором времени, в рабочие часы."
+              "success": "Дякую за відгук! Ми незабаром зв'яжемося з вами, в робочий час."
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Ім'я"
               },
               "email": {
-                "visible": true,
+                "visible": false,
                 "title": "Email",
-                "customTitle": "Email*"
+                "customTitle": "Електронна адреса"
               },
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "Телефон"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Повідомлення"
               }
             }
           },
@@ -479,6 +479,9 @@
             },
             ".mbr-section-title": {
               "font-size": "36px"
+            },
+            "SMALL": {
+              "color": "#90a878"
             }
           },
           "_anchor": "form1-f"
@@ -553,11 +556,11 @@
               "family": "et-line"
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "",
           "text1": "<br>Підвищуємо якість життя роблячи вашу посмішку бездоганною!",
-          "text2": "+3 8067 502 87 27&nbsp;<br>+38(063)036-59-33<br>",
-          "text3": "м. Київ, вул. Юрківська 2-6/32 офіс 2 ( ст.метро тараса Шевченка )",
+          "text2": "+38(067) 502 87 27&nbsp;<br>+38(063)036-59-33<br>",
+          "text3": "м. Київ,<br> вул. Юрківська 2-6/32<br> офіс 2 ( ст.метро тараса Шевченка )",
           "text4": "<a href=\"mailto:support@mobirise.com\">midentam@gmail.com</a>",
           "text5": "<li>Профілактика</li><li>Терапія</li><li>Ортопедія</li><li>Хірургія</li><li>Дитяча стоматологія</li>",
           "text6": "<br><br>We also speak in English.<br> If you need something, contact us!<br>\n<br>Address\n<br>Yurkivska Street, 2-6/32,\n<br>oficce 2 (Tarasa Shevchenko metro station)\n<br>Kyiv. 04080\n<br><br>",
@@ -574,12 +577,12 @@
                 "customTitle": "Name*"
               },
               "email": {
-                "visible": true,
+                "visible": false,
                 "title": "Email",
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": false,
+                "visible": true,
                 "title": "Phone",
                 "customTitle": "Phone"
               },

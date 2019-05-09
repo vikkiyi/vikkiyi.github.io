@@ -506,6 +506,9 @@ h6,
 #form1-f .mbr-section-title {
   font-size: 36px;
 }
+#form1-f SMALL {
+  color: #90a878;
+}
 #contacts3-p P {
   color: #f7da64;
 }
